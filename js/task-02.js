@@ -8,6 +8,7 @@ const ingredients = [
 ];
 
 const ulIgreientsEl = document.querySelector('#ingredients')
+//console.log(ulIgreientsEl);
 
  for (let ingredient of ingredients) {
 const liEl = document.createElement('li');
