@@ -19,3 +19,9 @@ const liEl = document.createElement('li');
  ulIgreientsEl.append(liEl);
  }
  console.log(ulIgreientsEl);
+
+ //for (let ingredient of ingredients) {
+  //  let liEl = document.createElement("li");
+  //  liEl.textContent = ingredient;
+  //  ulIgreientsEl.append(liEl);
+  // }
