@@ -11,7 +11,6 @@ function onInputName (event)  {
     
    }
      
-
 };
 
 //console.log(inputEl); 
